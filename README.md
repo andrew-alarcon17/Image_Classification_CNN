@@ -1,4 +1,4 @@
-# Image_Classification_CNN
+# Image Classification Using CNN
 
 ## Data Description:
 This data contains images that belong to the following 10 classes:
