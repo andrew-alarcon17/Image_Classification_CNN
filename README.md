@@ -25,4 +25,4 @@ Before training the model on the training data, I compiled the model using a los
 The model was then fitted to the training data with a batch size of 32, which is how many images were fed to the network at once.
 The accuracy ended up being .565. I then had the model predict on the testing data, and these were the results:
 
-<img src="https://github.com/andrew-alarcon17/Image_Classification_CNN/blob/master/Visualizations/Predictions.png" width="700">
+<img src="https://github.com/andrew-alarcon17/Image_Classification_CNN/blob/main/Visualizations/Sample_Images.png" width="700">
