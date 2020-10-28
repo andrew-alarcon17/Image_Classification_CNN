@@ -15,7 +15,7 @@ This data contains images that belong to the following 10 classes:
 There are 6,000 images for each class, and each image has a low resolution.
 Here are a few examples of how the images look:
 
-<img src="https://github.com/andrew-alarcon17/Image_Classification_CNN/Visualizations/Sample_Images.png" width="700">
+<img src="https://github.com/andrew-alarcon17/Image_Classification_CNN/Visualizations/Sample_Images.png" width="200">
 
 ## Project Summary:
 For this project, I will be creating a Convolutional Neural Network that will be able to classify the images in the data set.
